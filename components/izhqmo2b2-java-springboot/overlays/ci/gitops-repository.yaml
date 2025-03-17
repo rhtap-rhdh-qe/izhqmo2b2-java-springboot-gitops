@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: izhqmo2b2-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/izhqmo2b2-java-springboot-gitops
